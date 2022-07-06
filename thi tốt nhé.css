@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+
+}
+.slider{
+    background-image: url('slider/nhung-loi-chuc-thi-tot-hay-va-y-nghia-nhat-3_013801728.png');
+    background-repeat: no-repeat;
+    padding-top: 50%;
+    background-position: top center;
+    background-size: cover;
+    position: relative;
+}
+.slider-cc{
+    position: absolute;
+    left:50%;
+    top:30px;
+    text-align: center;
+    font-size: 25px;
+    color:red;
+    transform: translateX(-50%);
+}
+a{
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+}
+a:hover{
+    color:red;
+    transition: 0.9s ease-out
+}
