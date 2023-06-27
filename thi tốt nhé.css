@@ -18,6 +18,9 @@
     background-size: cover;
     position: relative;
 }
+#blue{
+ font-size: 40px;
+}
 .slider-cc{
     position: absolute;
     left:50%;
