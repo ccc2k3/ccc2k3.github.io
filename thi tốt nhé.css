@@ -19,8 +19,9 @@
     position: relative;
 }
 #blue{
- font-size: 40px;
+   font-size: 40px;
 }
+
 .slider-cc{
     position: absolute;
     left:50%;
